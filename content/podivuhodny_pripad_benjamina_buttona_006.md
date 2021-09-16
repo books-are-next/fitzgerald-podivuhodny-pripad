@@ -2,9 +2,9 @@
 title: II
 ---
 
-  
-
 „Dobré jitro,“ pozdravil pan Button nervózně prodavače v obchodě firmy Chesapeakská konfekce. „Rád bych tu synkovi koupil něco na sebe.“
+
+  
 
 „Jistě, pane. Jak je starý, synáček?“
 

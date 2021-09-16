@@ -2,9 +2,9 @@
 title: VII
 ---
 
-  
-
 Přinejmenším v jedné věci se přátelé Hildegardy Moncriefové hrubě mýlili. Velkoobchod železářským zbožím neuvěřitelně vzkvétal. V průběhu patnácti let, které uplynuly mezi Benjaminovou svatbou v roce 1880 a odchodem jeho otce na odpočinek v roce 1895, se jmění rodiny zdvojnásobilo – a to především díky mladšímu představiteli firmy.
+
+  
 
 Není asi třeba uvádět, že Baltimore nakonec tento pár přivinul ke svým ňadrům. Dokonce i generál Moncrief se se zetěm smířil, když mu Benjamin poskytl finanční prostředky na vydání jeho Dějin občanské války ve dvaceti svazcích, jež předtím odmítlo publikovat devět významných nakladatelství.
 

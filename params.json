@@ -9,17 +9,17 @@
       "languageCode": "cs"
     },
     "elements": {
-      "title": "mlpuroven2kapitola\nmlptitulkanazev\n",
+      "title": "mlpuroven2kapitola\n\n",
       "subtitle": "",
-      "h2": "mlptitulkaautor",
-      "h3": "mlptitulkaprekladatel",
+      "h2": "",
+      "h3": "",
       "h4": "",
       "hr": "",
       "hrBefore": "",
       "hrAfter": "",
-      "br": "mlptextbez1radku1\n ",
-      "brBefore": "mlptextbez1radku  mlptextbez1radku2 ",
-      "brAfter": "",
+      "br": "\n ",
+      "brBefore": "\n ",
+      "brAfter": "mlptextbez1radku\nmlptextbez1radku1 \nmlptextbez1radku2 ",
       "blockquote": "",
       "figure": "",
       "em": "",
@@ -192,7 +192,7 @@
       "identifier": "a75858a2-232d-4288-b3b9-a68dbd969a84",
       "author": "Francis Scott Fitzgerald",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-09-11T07:25:22.164Z"
+      "modified": "2021-09-16T09:54:28.092Z"
     },
     "chapters": [
       {
@@ -208,7 +208,7 @@
         "xhtml": "podivuhodny_ pripad_benjamina_buttona_002.html"
       },
       {
-        "titleSuggest": "Podivuhodný případ Benjamina Buttona",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "podivuhodny_pripad_benjamina_buttona_003.md",
         "xhtml": "podivuhodny_ pripad_benjamina_buttona_003.html"
@@ -356,6 +356,6 @@
       "user": "books-are-next",
       "repo": "fitzgerald-podivuhodny-pripad"
     },
-    "generatedAt": 1631345122478
+    "generatedAt": 1631786068326
   }
 }

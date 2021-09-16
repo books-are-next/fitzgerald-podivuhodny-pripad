@@ -2,9 +2,9 @@
 title: VI
 ---
 
-  
-
 Když o šest měsíců později vešlo ve známost zasnoubení slečny Hildegardy Moncriefové s panem Benjaminem Buttonem (úmyslně píšu „vešlo ve známost“, protože generál Moncrief se dal slyšet, že by raději nalehl na meč, než aby to zasnoubení oficiálně oznámil), vzrušení v baltimorské vyšší společnosti dosáhlo přímo horečnatého vrcholu. Lidé z paměti vydolovali téměř zapomenutou historii Benjaminova zrození a skandální hlásné trouby ji roznesly všemi směry v nejpitoresknějších a nejneuvěřitelnějších podobách. Tvrdilo se, že Benjamin je vlastně otec Rogera Buttona; že je to jeho bratr, který strávil čtyřicet let ve vězení; že to je přestrojený vrah prezidenta Lincolna John Wilkes Booth; a dokonce že mu nahoře z hlavy trčí dva špičaté růžky…
+
+  
 
 Nedělní přílohy newyorských novin zveřejnili podobizny Benjamina Buttona, na kterých jeho hlava trůnila na těle ryby, hada, a dokonce i na masivním bronzovém podstavci. Novináři o něm psali jako o záhadném „Marťanovi z Marylandu“. Ale jak je v podobných případech běžné, skutečná pravda zajímala málokoho.
 
