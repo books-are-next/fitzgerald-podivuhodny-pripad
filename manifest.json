@@ -1,14 +1,14 @@
 {
   "author": "Francis Scott Fitzgerald",
-  "identifier": "fitzgerald-podivuhodny-pripad-benjamina-buttona-3d77877",
+  "identifier": "fitzgerald-podivuhodny-pripad-benjamina-buttona-1d816d5",
   "languagecode": "cs",
   "modified": "2021-08-11T09:40:46.597Z",
   "publisher": "Městská knihovna v Praze",
   "title": "Podivuhodný případ Benjamina Buttona",
-  "revision": "3d77877",
+  "revision": "1d816d5",
   "generatedAt": {
-    "date": "Thu Sep 16 2021 09:57:17 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1631786237100
+    "date": "Thu Sep 16 2021 10:00:33 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1631786433858
   },
   "documents": [
     {
@@ -19,7 +19,7 @@
       "ideas": 22,
       "role": "colophon",
       "order": null,
-      "next": "podivuhodny_pripad_benjamina_buttona_001.html",
+      "next": "podivuhodny_pripad_benjamina_buttona_005.html",
       "toc": [
         {
           "index": 0,
@@ -38,7 +38,7 @@
       "ideas": 0,
       "role": "index",
       "order": null,
-      "next": "podivuhodny_pripad_benjamina_buttona_001.html",
+      "next": "podivuhodny_pripad_benjamina_buttona_005.html",
       "toc": []
     },
     {
@@ -47,10 +47,9 @@
       "words": 0,
       "chars": 0,
       "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "podivuhodny_pripad_benjamina_buttona_002.html",
+      "role": "other",
+      "order": null,
+      "next": "podivuhodny_pripad_benjamina_buttona_005.html",
       "toc": [
         {
           "index": 0,
@@ -67,10 +66,9 @@
       "words": 0,
       "chars": 0,
       "ideas": 0,
-      "role": "chapter",
-      "order": 1,
-      "prev": "podivuhodny_pripad_benjamina_buttona_001.html",
-      "next": "podivuhodny_pripad_benjamina_buttona_003.html",
+      "role": "other",
+      "order": null,
+      "next": "podivuhodny_pripad_benjamina_buttona_005.html",
       "toc": [
         {
           "index": 0,
@@ -87,9 +85,8 @@
       "words": 10,
       "chars": 84,
       "ideas": 3,
-      "role": "chapter",
-      "order": 2,
-      "prev": "podivuhodny_pripad_benjamina_buttona_002.html",
+      "role": "other",
+      "order": null,
       "next": "podivuhodny_pripad_benjamina_buttona_005.html",
       "toc": [
         {
@@ -108,8 +105,8 @@
       "chars": 9408,
       "ideas": 66,
       "role": "chapter",
-      "order": 3,
-      "prev": "podivuhodny_pripad_benjamina_buttona_003.html",
+      "order": 0,
+      "prev": null,
       "next": "podivuhodny_pripad_benjamina_buttona_006.html",
       "toc": [
         {
@@ -128,7 +125,7 @@
       "chars": 3601,
       "ideas": 31,
       "role": "chapter",
-      "order": 4,
+      "order": 1,
       "prev": "podivuhodny_pripad_benjamina_buttona_005.html",
       "next": "podivuhodny_pripad_benjamina_buttona_007.html",
       "toc": [
@@ -148,7 +145,7 @@
       "chars": 7125,
       "ideas": 19,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "podivuhodny_pripad_benjamina_buttona_006.html",
       "next": "podivuhodny_pripad_benjamina_buttona_008.html",
       "toc": [
@@ -168,7 +165,7 @@
       "chars": 3791,
       "ideas": 30,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "podivuhodny_pripad_benjamina_buttona_007.html",
       "next": "podivuhodny_pripad_benjamina_buttona_009.html",
       "toc": [
@@ -188,7 +185,7 @@
       "chars": 6113,
       "ideas": 27,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "podivuhodny_pripad_benjamina_buttona_008.html",
       "next": "podivuhodny_pripad_benjamina_buttona_010.html",
       "toc": [
@@ -208,7 +205,7 @@
       "chars": 1952,
       "ideas": 5,
       "role": "chapter",
-      "order": 8,
+      "order": 5,
       "prev": "podivuhodny_pripad_benjamina_buttona_009.html",
       "next": "podivuhodny_pripad_benjamina_buttona_011.html",
       "toc": [
@@ -228,7 +225,7 @@
       "chars": 3575,
       "ideas": 10,
       "role": "chapter",
-      "order": 9,
+      "order": 6,
       "prev": "podivuhodny_pripad_benjamina_buttona_010.html",
       "next": "podivuhodny_pripad_benjamina_buttona_012.html",
       "toc": [
@@ -248,7 +245,7 @@
       "chars": 4270,
       "ideas": 18,
       "role": "chapter",
-      "order": 10,
+      "order": 7,
       "prev": "podivuhodny_pripad_benjamina_buttona_011.html",
       "next": "podivuhodny_pripad_benjamina_buttona_013.html",
       "toc": [
@@ -268,7 +265,7 @@
       "chars": 4068,
       "ideas": 15,
       "role": "chapter",
-      "order": 11,
+      "order": 8,
       "prev": "podivuhodny_pripad_benjamina_buttona_012.html",
       "next": "podivuhodny_pripad_benjamina_buttona_014.html",
       "toc": [
@@ -288,7 +285,7 @@
       "chars": 4840,
       "ideas": 21,
       "role": "chapter",
-      "order": 12,
+      "order": 9,
       "prev": "podivuhodny_pripad_benjamina_buttona_013.html",
       "next": "podivuhodny_pripad_benjamina_buttona_015.html",
       "toc": [
@@ -308,7 +305,7 @@
       "chars": 4867,
       "ideas": 12,
       "role": "chapter",
-      "order": 13,
+      "order": 10,
       "prev": "podivuhodny_pripad_benjamina_buttona_014.html",
       "next": null,
       "toc": [
@@ -329,7 +326,7 @@
       "ideas": 0,
       "role": "other",
       "order": null,
-      "next": "podivuhodny_pripad_benjamina_buttona_001.html",
+      "next": "podivuhodny_pripad_benjamina_buttona_005.html",
       "toc": []
     }
   ],
@@ -340,9 +337,9 @@
       "ideas": 279
     },
     "chapters": {
-      "words": 8670,
-      "chars": 53694,
-      "ideas": 257
+      "words": 8660,
+      "chars": 53610,
+      "ideas": 254
     }
   }
 }
