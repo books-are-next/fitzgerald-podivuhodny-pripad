@@ -10,9 +10,6 @@ meta:
   modified: '2021-08-11T09:40:46.597Z'
   languageCode: cs
 chapters:
-  - podivuhodny_pripad_benjamina_buttona_001.html
-  - podivuhodny_pripad_benjamina_buttona_002.html
-  - podivuhodny_pripad_benjamina_buttona_003.html
   - podivuhodny_pripad_benjamina_buttona_005.html
   - podivuhodny_pripad_benjamina_buttona_006.html
   - podivuhodny_pripad_benjamina_buttona_007.html
