@@ -2,9 +2,9 @@
 title: XI
 ---
 
-  
-
 V roce 1920 se Roscoeovi Buttonovi narodilo první dítě – chlapec. Během oslav však nikdo nepovažoval za „vhodné“ poukázat na to, že ten asi desetiletý ušmudlaný klučík, který si po domě hraje s cínovými vojáčky a s miniaturním cirkusem, je novorozencův vlastní dědeček.
+
+  
 
 Všichni toho hocha, přes jehož svěží, milou tvář občas přelétl náznak smutku, měli rádi, ale pro Roscoea Buttona byla jeho přítomnost zdrojem soužení. Nebyla „smysluplná“, jak by takovou věc označil slovník jeho generace. To, že jeho otec odmítal vypadat na šedesát, pokládal za charakterovou vadu, svým způsobem za podivínskou zvrhlost – „správný chlap“ (to byl Roscoeův oblíbený výraz) se takhle prostě nechová. Představa, že by měl něco takového brát na lehkou váhu a přijmout to prostě jako fakt, ho doháněla k šílenství. Roscoe uznával, že každý má právo na to, aby se snažil zůstat co nejdéle mladý, ale takhle absurdně to přehánět – to opravdu nebylo… smysluplné. A na tom trval.
 

@@ -2,9 +2,9 @@
 title: VIII
 ---
 
-  
-
 Hildegarda mu na uvítanou mávala z verandy velkou hedvábnou vlajkou, ale už když se s ní líbal, se smutkem v srdci si uvědomoval, že si na ní poslední tři roky vybraly neblahou daň. Stala se z ní čtyřicátnice s drobným, ale nepřehlédnutelným proužkem šedin ve vlasech. Velmi ho to zkrušilo.
+
+  
 
 Nahoře v pokoji zahlédl svůj obraz ve starém známém zrcadle. Přistoupil k němu blíž a začal si úzkostlivě prohlížet tvář. Načež ji zkusil porovnat s fotografií v uniformě, pořízenou těsně před odchodem do války.
 

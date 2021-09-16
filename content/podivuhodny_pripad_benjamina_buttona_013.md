@@ -2,9 +2,9 @@
 title: IX
 ---
 
-  
-
 Jednoho srpnového dne roku 1910 – několik let poté, co vedení firmy Roger Button a spol., velkoobchod železářským zbožím, převzal mladý Roscoe Button – se ke studiu na Harvardově univerzitě v Cambridgi hlásil mladý muž, kterému bylo očividně něco kolem dvaceti let. Ani ho nenapadlo, aby se někomu svěřoval, že se už nikdy nedožije padesátky, a nepokládal za nutné někomu hlásit, že jeho syn na této univerzitě úspěšně odpromoval před rovnými deseti lety.
+
+  
 
 Byl přijat a velmi brzy si ve svém ročníku vydobyl významné postavení, zčásti proto, že se zdál být starší než jeho spolužáci, kterým většinou nebylo víc než osmnáct.
 

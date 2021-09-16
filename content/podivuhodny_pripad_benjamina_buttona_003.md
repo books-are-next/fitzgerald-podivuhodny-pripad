@@ -1,7 +1,9 @@
 ---
-title: Podivuhodný případ Benjamina Buttona
+title: ''
 ---
 
-## Francis Scott Fitzgerald
+Podivuhodný případ Benjamina Buttona
 
-### Přeložil Miroslav Jindra
+Francis Scott Fitzgerald
+
+Přeložil Miroslav Jindra
