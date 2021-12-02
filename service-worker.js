@@ -1,7 +1,8 @@
-/* global self, caches, fetch */
 /* eslint-disable no-restricted-globals */
 
-const CACHE = 'cache-5568e81';
+/* global self, caches, fetch */
+
+const CACHE = 'cache-c91877f';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -39,7 +40,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./podivuhodny_pripad_benjamina_buttona_001.html","./podivuhodny_pripad_benjamina_buttona_002.html","./podivuhodny_pripad_benjamina_buttona_003.html","./podivuhodny_pripad_benjamina_buttona_005.html","./podivuhodny_pripad_benjamina_buttona_006.html","./podivuhodny_pripad_benjamina_buttona_007.html","./podivuhodny_pripad_benjamina_buttona_008.html","./podivuhodny_pripad_benjamina_buttona_009.html","./podivuhodny_pripad_benjamina_buttona_010.html","./podivuhodny_pripad_benjamina_buttona_011.html","./podivuhodny_pripad_benjamina_buttona_012.html","./podivuhodny_pripad_benjamina_buttona_013.html","./podivuhodny_pripad_benjamina_buttona_014.html","./podivuhodny_pripad_benjamina_buttona_015.html","./resources.html","./resources/image001.jpg","./resources/image002.png","./resources/index.xml","./resources/obalka.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./podivuhodny_pripad_benjamina_buttona_002.html","./podivuhodny_pripad_benjamina_buttona_003.html","./podivuhodny_pripad_benjamina_buttona_005.html","./podivuhodny_pripad_benjamina_buttona_006.html","./podivuhodny_pripad_benjamina_buttona_007.html","./podivuhodny_pripad_benjamina_buttona_008.html","./podivuhodny_pripad_benjamina_buttona_009.html","./podivuhodny_pripad_benjamina_buttona_010.html","./podivuhodny_pripad_benjamina_buttona_011.html","./podivuhodny_pripad_benjamina_buttona_012.html","./podivuhodny_pripad_benjamina_buttona_013.html","./podivuhodny_pripad_benjamina_buttona_014.html","./podivuhodny_pripad_benjamina_buttona_015.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image002.png","./resources/obalka.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
 }
 
 self.addEventListener('fetch', e => {

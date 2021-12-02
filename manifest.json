@@ -1,131 +1,86 @@
 {
   "author": "Francis Scott Fitzgerald",
-  "identifier": "fitzgerald-podivuhodny-pripad-benjamina-buttona-5568e81",
+  "edition": "beletrie",
+  "identifier": "fitzgerald-podivuhodny-pripad-benjamina-buttona-c91877f",
   "languagecode": "cs",
   "modified": "2021-08-11T09:40:46.597Z",
   "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
   "title": "Podivuhodný případ Benjamina Buttona",
-  "revision": "5568e81",
+  "revision": "c91877f",
   "generatedAt": {
-    "date": "Wed Dec 01 2021 17:28:37 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638379717646
+    "date": "Thu Dec 02 2021 10:24:19 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638440659397
   },
   "documents": [
     {
-      "title": "Tiráž",
-      "file": "colophon.html",
-      "words": 152,
-      "chars": 1056,
-      "ideas": 22,
-      "role": "colophon",
-      "order": null,
-      "next": "podivuhodny_pripad_benjamina_buttona_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "Tiráž",
-          "id": "chunk1",
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "",
-      "file": "index.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "index",
-      "order": null,
-      "next": "podivuhodny_pripad_benjamina_buttona_005.html",
-      "toc": []
-    },
-    {
-      "title": "",
-      "file": "podivuhodny_pripad_benjamina_buttona_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "other",
-      "order": null,
-      "next": "podivuhodny_pripad_benjamina_buttona_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "",
-          "id": "chunk1",
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "",
+      "title": "Podivuhodný případ Benjamina Buttona",
       "file": "podivuhodny_pripad_benjamina_buttona_002.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
-      "role": "other",
-      "order": null,
-      "next": "podivuhodny_pripad_benjamina_buttona_005.html",
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "podivuhodny_pripad_benjamina_buttona_003.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "",
+      "title": "Podivuhodný případ Benjamina Buttona",
       "file": "podivuhodny_pripad_benjamina_buttona_003.html",
       "words": 10,
       "chars": 84,
       "ideas": 3,
-      "role": "other",
-      "order": null,
+      "role": "chapter",
+      "order": 1,
+      "prev": "podivuhodny_pripad_benjamina_buttona_002.html",
       "next": "podivuhodny_pripad_benjamina_buttona_005.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "I",
+      "title": "I • Podivuhodný případ Benjamina Buttona",
       "file": "podivuhodny_pripad_benjamina_buttona_005.html",
       "words": 1540,
       "chars": 9408,
       "ideas": 66,
       "role": "chapter",
-      "order": 0,
-      "prev": null,
+      "order": 2,
+      "prev": "podivuhodny_pripad_benjamina_buttona_003.html",
       "next": "podivuhodny_pripad_benjamina_buttona_006.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "I",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "II",
+      "title": "II • Podivuhodný případ Benjamina Buttona",
       "file": "podivuhodny_pripad_benjamina_buttona_006.html",
       "words": 586,
       "chars": 3601,
       "ideas": 31,
       "role": "chapter",
-      "order": 1,
+      "order": 3,
       "prev": "podivuhodny_pripad_benjamina_buttona_005.html",
       "next": "podivuhodny_pripad_benjamina_buttona_007.html",
       "toc": [
@@ -133,19 +88,19 @@
           "index": 0,
           "level": 1,
           "name": "II",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "III",
+      "title": "III • Podivuhodný případ Benjamina Buttona",
       "file": "podivuhodny_pripad_benjamina_buttona_007.html",
       "words": 1143,
       "chars": 7125,
       "ideas": 19,
       "role": "chapter",
-      "order": 2,
+      "order": 4,
       "prev": "podivuhodny_pripad_benjamina_buttona_006.html",
       "next": "podivuhodny_pripad_benjamina_buttona_008.html",
       "toc": [
@@ -153,19 +108,19 @@
           "index": 0,
           "level": 1,
           "name": "III",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "IV",
+      "title": "IV • Podivuhodný případ Benjamina Buttona",
       "file": "podivuhodny_pripad_benjamina_buttona_008.html",
       "words": 618,
       "chars": 3791,
       "ideas": 30,
       "role": "chapter",
-      "order": 3,
+      "order": 5,
       "prev": "podivuhodny_pripad_benjamina_buttona_007.html",
       "next": "podivuhodny_pripad_benjamina_buttona_009.html",
       "toc": [
@@ -173,19 +128,19 @@
           "index": 0,
           "level": 1,
           "name": "IV",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "V",
+      "title": "V • Podivuhodný případ Benjamina Buttona",
       "file": "podivuhodny_pripad_benjamina_buttona_009.html",
       "words": 961,
       "chars": 6113,
       "ideas": 27,
       "role": "chapter",
-      "order": 4,
+      "order": 6,
       "prev": "podivuhodny_pripad_benjamina_buttona_008.html",
       "next": "podivuhodny_pripad_benjamina_buttona_010.html",
       "toc": [
@@ -193,19 +148,19 @@
           "index": 0,
           "level": 1,
           "name": "V",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "VI",
+      "title": "VI • Podivuhodný případ Benjamina Buttona",
       "file": "podivuhodny_pripad_benjamina_buttona_010.html",
       "words": 292,
       "chars": 1952,
       "ideas": 5,
       "role": "chapter",
-      "order": 5,
+      "order": 7,
       "prev": "podivuhodny_pripad_benjamina_buttona_009.html",
       "next": "podivuhodny_pripad_benjamina_buttona_011.html",
       "toc": [
@@ -213,19 +168,19 @@
           "index": 0,
           "level": 1,
           "name": "VI",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "VII",
+      "title": "VII • Podivuhodný případ Benjamina Buttona",
       "file": "podivuhodny_pripad_benjamina_buttona_011.html",
       "words": 558,
       "chars": 3575,
       "ideas": 10,
       "role": "chapter",
-      "order": 6,
+      "order": 8,
       "prev": "podivuhodny_pripad_benjamina_buttona_010.html",
       "next": "podivuhodny_pripad_benjamina_buttona_012.html",
       "toc": [
@@ -233,19 +188,19 @@
           "index": 0,
           "level": 1,
           "name": "VII",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "VIII",
+      "title": "VIII • Podivuhodný případ Benjamina Buttona",
       "file": "podivuhodny_pripad_benjamina_buttona_012.html",
       "words": 698,
       "chars": 4270,
       "ideas": 18,
       "role": "chapter",
-      "order": 7,
+      "order": 9,
       "prev": "podivuhodny_pripad_benjamina_buttona_011.html",
       "next": "podivuhodny_pripad_benjamina_buttona_013.html",
       "toc": [
@@ -253,19 +208,19 @@
           "index": 0,
           "level": 1,
           "name": "VIII",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "IX",
+      "title": "IX • Podivuhodný případ Benjamina Buttona",
       "file": "podivuhodny_pripad_benjamina_buttona_013.html",
       "words": 657,
       "chars": 4068,
       "ideas": 15,
       "role": "chapter",
-      "order": 8,
+      "order": 10,
       "prev": "podivuhodny_pripad_benjamina_buttona_012.html",
       "next": "podivuhodny_pripad_benjamina_buttona_014.html",
       "toc": [
@@ -273,19 +228,19 @@
           "index": 0,
           "level": 1,
           "name": "IX",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "X",
+      "title": "X • Podivuhodný případ Benjamina Buttona",
       "file": "podivuhodny_pripad_benjamina_buttona_014.html",
       "words": 780,
       "chars": 4840,
       "ideas": 21,
       "role": "chapter",
-      "order": 9,
+      "order": 11,
       "prev": "podivuhodny_pripad_benjamina_buttona_013.html",
       "next": "podivuhodny_pripad_benjamina_buttona_015.html",
       "toc": [
@@ -293,53 +248,62 @@
           "index": 0,
           "level": 1,
           "name": "X",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "XI",
+      "title": "XI • Podivuhodný případ Benjamina Buttona",
       "file": "podivuhodny_pripad_benjamina_buttona_015.html",
       "words": 827,
       "chars": 4867,
       "ideas": 12,
       "role": "chapter",
-      "order": 10,
+      "order": 12,
       "prev": "podivuhodny_pripad_benjamina_buttona_014.html",
-      "next": null,
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "XI",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "",
-      "file": "resources.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "other",
+      "title": "Tiráž • Podivuhodný případ Benjamina Buttona",
+      "file": "colophon.html",
+      "words": 152,
+      "chars": 1056,
+      "ideas": 22,
+      "role": "colophon",
       "order": null,
-      "next": "podivuhodny_pripad_benjamina_buttona_005.html",
-      "toc": []
+      "prev": "podivuhodny_pripad_benjamina_buttona_015.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
     }
   ],
   "totals": {
     "all": {
-      "words": 8822,
-      "chars": 54750,
-      "ideas": 279
+      "words": 8831,
+      "chars": 54821,
+      "ideas": 283
     },
     "chapters": {
-      "words": 8660,
-      "chars": 53610,
-      "ideas": 254
+      "words": 8670,
+      "chars": 53694,
+      "ideas": 257
     }
   }
 }
