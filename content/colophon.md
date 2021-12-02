@@ -42,7 +42,7 @@ Verze 1.0 z 20. 6. 2018.
 
   
 
-![](./resources/image002.png)
+![](../Images/image002.png)
 
 
 ***

@@ -9,7 +9,11 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-08-11T09:40:46.597Z'
   languageCode: cs
-chapters:
+  publisherShort: mkp
+  edition: beletrie
+readingOrder:
+  - podivuhodny_pripad_benjamina_buttona_002.html
+  - podivuhodny_pripad_benjamina_buttona_003.html
   - podivuhodny_pripad_benjamina_buttona_005.html
   - podivuhodny_pripad_benjamina_buttona_006.html
   - podivuhodny_pripad_benjamina_buttona_007.html
@@ -21,6 +25,7 @@ chapters:
   - podivuhodny_pripad_benjamina_buttona_013.html
   - podivuhodny_pripad_benjamina_buttona_014.html
   - podivuhodny_pripad_benjamina_buttona_015.html
+  - colophon.html
 tocBase:
   - link: podivuhodny_pripad_benjamina_buttona_005.html
     title: I
@@ -50,5 +55,6 @@ static:
   - title
   - fonts
   - resources
+  - template-images
   - favicon.png
 ---
