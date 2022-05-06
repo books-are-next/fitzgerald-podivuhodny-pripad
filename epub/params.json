@@ -1,5 +1,4 @@
 {
-  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Podivuhodný případ Benjamina Buttona",
@@ -25,8 +24,8 @@
       "brAfter": "mlptextbez1radku\nmlptextbez1radku1 \nmlptextbez1radku2 ",
       "blockquote": "",
       "figure": "",
-      "em": "",
-      "strong": "",
+      "em": "mlpznakkurziva11b",
+      "strong": "mlptirazautoranazev mlpznaktucne",
       "remove": "",
       "ignore": ""
     },
@@ -36,8 +35,8 @@
         "xhtml": "podivuhodny_ pripad_benjamina_buttona_001.html",
         "id": 0,
         "role": "cover",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       },
       {
@@ -45,8 +44,8 @@
         "xhtml": "podivuhodny_ pripad_benjamina_buttona_002.html",
         "id": 1,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       },
       {
@@ -54,18 +53,18 @@
         "xhtml": "podivuhodny_ pripad_benjamina_buttona_003.html",
         "id": 2,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
-        "children": [],
-        "title": ""
+        "title": "",
+        "listType": "plain",
+        "children": []
       },
       {
         "filename": "podivuhodny_pripad_benjamina_buttona_004.md",
         "xhtml": "podivuhodny_ pripad_benjamina_buttona_004.html",
         "id": 3,
         "role": "colophon",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       },
       {
@@ -74,8 +73,8 @@
         "title": "I",
         "id": 4,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       },
       {
@@ -84,8 +83,8 @@
         "title": "II",
         "id": 5,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       },
       {
@@ -94,8 +93,8 @@
         "title": "III",
         "id": 6,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       },
       {
@@ -104,8 +103,8 @@
         "title": "IV",
         "id": 7,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       },
       {
@@ -114,8 +113,8 @@
         "title": "V",
         "id": 8,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       },
       {
@@ -124,8 +123,8 @@
         "title": "VI",
         "id": 9,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       },
       {
@@ -134,8 +133,8 @@
         "title": "VII",
         "id": 10,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       },
       {
@@ -144,8 +143,8 @@
         "title": "VIII",
         "id": 11,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       },
       {
@@ -154,8 +153,8 @@
         "title": "IX",
         "id": 12,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       },
       {
@@ -164,8 +163,8 @@
         "title": "X",
         "id": 13,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       },
       {
@@ -174,8 +173,8 @@
         "title": "XI",
         "id": 14,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       },
       {
@@ -183,8 +182,8 @@
         "xhtml": "podivuhodny_ pripad_benjamina_buttona_016.html",
         "id": 15,
         "role": "colophon",
-        "numberedChildren": false,
         "inToc": true,
+        "listType": "plain",
         "children": []
       }
     ]
@@ -195,7 +194,7 @@
       "identifier": "a75858a2-232d-4288-b3b9-a68dbd969a84",
       "author": "Francis Scott Fitzgerald",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-09-11T07:25:22.164Z"
+      "modified": "2021-12-02T10:23:19.193Z"
     },
     "chapters": [
       {
@@ -211,7 +210,7 @@
         "xhtml": "podivuhodny_ pripad_benjamina_buttona_002.html"
       },
       {
-        "titleSuggest": "Podivuhodný případ Benjamina Buttona",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "podivuhodny_pripad_benjamina_buttona_003.md",
         "xhtml": "podivuhodny_ pripad_benjamina_buttona_003.html"
@@ -359,7 +358,6 @@
       "user": "books-are-next",
       "repo": "fitzgerald-podivuhodny-pripad"
     },
-    "generatedAt": 1631345122478
+    "generatedAt": 1638440599431
   }
 }
-
