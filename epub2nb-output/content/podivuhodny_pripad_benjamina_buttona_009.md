@@ -1,5 +1,6 @@
 ---
 title: V
+contentType: prose
 ---
 
 V roce 1880 bylo Benjaminu Buttonovi dvacet let a narozeniny oslavil tím, že začal pracovat v otcově firmě Roger Button a spol., velkoobchod železářským zbožím. V témže roce začal rovněž „vést společenský život“ – což konkrétně znamenalo, že ho otec začal brát na módní taneční večírky. Rogerovi Buttonovi bylo teď už padesát a se synem si začali velmi dobře rozumět – po pravdě řečeno, od té doby, co si Benjamin přestal barvit vlasy (pořád je měl ještě trochu šedivé), vypadali stejně staří a leckdo je mohl pokládat za bratry.

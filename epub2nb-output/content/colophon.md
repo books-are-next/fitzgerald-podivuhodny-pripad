@@ -47,9 +47,9 @@ Verze 1.0 z 20. 6. 2018.
 
 ***
 
-Francis Scott Fitzgerald
+**Francis Scott Fitzgerald**
 
-Podivuhodný případ Benjamina Buttona
+**Podivuhodný případ Benjamina Buttona**
 
 Edice Klasická světová próza
 
@@ -67,7 +67,7 @@ Redakce Markéta Teuchnerová
 
   
 
-Vydala Městská knihovna v Praze
+Vydala **Městská knihovna v Praze**
 
   
 

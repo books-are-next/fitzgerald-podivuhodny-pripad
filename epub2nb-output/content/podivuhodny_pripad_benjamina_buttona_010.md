@@ -1,5 +1,6 @@
 ---
 title: VI
+contentType: prose
 ---
 
 Když o šest měsíců později vešlo ve známost zasnoubení slečny Hildegardy Moncriefové s panem Benjaminem Buttonem (úmyslně píšu „vešlo ve známost“, protože generál Moncrief se dal slyšet, že by raději nalehl na meč, než aby to zasnoubení oficiálně oznámil), vzrušení v baltimorské vyšší společnosti dosáhlo přímo horečnatého vrcholu. Lidé z paměti vydolovali téměř zapomenutou historii Benjaminova zrození a skandální hlásné trouby ji roznesly všemi směry v nejpitoresknějších a nejneuvěřitelnějších podobách. Tvrdilo se, že Benjamin je vlastně otec Rogera Buttona; že je to jeho bratr, který strávil čtyřicet let ve vězení; že to je přestrojený vrah prezidenta Lincolna John Wilkes Booth; a dokonce že mu nahoře z hlavy trčí dva špičaté růžky…

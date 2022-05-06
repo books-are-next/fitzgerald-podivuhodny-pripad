@@ -1,14 +1,15 @@
 ---
 title: VII
+contentType: prose
 ---
 
 Přinejmenším v jedné věci se přátelé Hildegardy Moncriefové hrubě mýlili. Velkoobchod železářským zbožím neuvěřitelně vzkvétal. V průběhu patnácti let, které uplynuly mezi Benjaminovou svatbou v roce 1880 a odchodem jeho otce na odpočinek v roce 1895, se jmění rodiny zdvojnásobilo – a to především díky mladšímu představiteli firmy.
 
   
 
-Není asi třeba uvádět, že Baltimore nakonec tento pár přivinul ke svým ňadrům. Dokonce i generál Moncrief se se zetěm smířil, když mu Benjamin poskytl finanční prostředky na vydání jeho Dějin občanské války ve dvaceti svazcích, jež předtím odmítlo publikovat devět významných nakladatelství.
+Není asi třeba uvádět, že Baltimore nakonec tento pár přivinul ke svým ňadrům. Dokonce i generál Moncrief se se zetěm smířil, když mu Benjamin poskytl finanční prostředky na vydání jeho _Dějin občanské války_ ve dvaceti svazcích, jež předtím odmítlo publikovat devět významných nakladatelství.
 
-Oněch patnáct let přineslo i Benjaminovi samému řadu pozitivních proměn. Měl pocit, že mu teď v žilách proudí svěží, čerstvá krev. Každé ráno nyní vstával přímo s radostí, prosluněnou ulicí se křepkým krokem odebíral do práce a tam neúnavně připravoval k odbavení zásilky kladiv a hřebíků. V roce 1890 realizoval svůj slavný obchodní tah – prosadil totiž, že všechny hřebíky použité k zatloukání beden plných hřebíků určených k dodávkám do maloobchodní sítě budou považovány za součást zásilky; tuto praxi nakonec odsouhlasil i předseda Nejvyššího soudu Fossile, a firma Roger Button a spol., velkoobchod železářským zbožím, tak každý rok ušetřila více než šest set hřebíků.
+Oněch patnáct let přineslo i Benjaminovi samému řadu pozitivních proměn. Měl pocit, že mu teď v žilách proudí svěží, čerstvá krev. Každé ráno nyní vstával přímo s radostí, prosluněnou ulicí se křepkým krokem odebíral do práce a tam neúnavně připravoval k odbavení zásilky kladiv a hřebíků. V roce 1890 realizoval svůj slavný obchodní tah – prosadil totiž, že _všechny hřebíky použité k zatloukání beden plných hřebíků určených k dodávkám do maloobchodní sítě budou považovány za součást zásilky_; tuto praxi nakonec odsouhlasil i předseda Nejvyššího soudu Fossile, a firma Roger Button a spol., velkoobchod železářským zbožím, tak každý rok ušetřila více než šest set hřebíků.
 
 Benjamin kromě toho zjistil, že ho stále více přitahují různé příjemné stránky života. Pro jeho stále rostoucí zájem o všelijaká životní potěšení bylo příznačné, že se stal prvním občanem Baltimoru, který vlastnil a také sám řídil automobil. Když se s ním jeho současníci potkávali na ulici, hleděli na ten příklad zdravé vitality s obdivnou závistí.
 

@@ -1,5 +1,6 @@
 ---
 title: XI
+contentType: prose
 ---
 
 V roce 1920 se Roscoeovi Buttonovi narodilo první dítě – chlapec. Během oslav však nikdo nepovažoval za „vhodné“ poukázat na to, že ten asi desetiletý ušmudlaný klučík, který si po domě hraje s cínovými vojáčky a s miniaturním cirkusem, je novorozencův vlastní dědeček.
