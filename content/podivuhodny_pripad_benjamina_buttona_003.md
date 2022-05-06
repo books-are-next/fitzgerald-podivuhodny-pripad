@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Podivuhodný případ Benjamina Buttona

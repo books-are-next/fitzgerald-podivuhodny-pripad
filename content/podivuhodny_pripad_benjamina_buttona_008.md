@@ -1,5 +1,6 @@
 ---
 title: IV
+contentType: prose
 ---
 
 O životě Benjamina Buttona mezi jeho dvanáctým a jednadvacátým rokem se tu nemíním příliš šířit. Postačí poznamenat, že to byla léta jeho naprosto normálního odspívání. Když mu bylo osmnáct, pohyboval se vzpřímeně a pevným krokem jako padesátiletý muž, měl podstatně víc vlasů, tmavě šedých, a jeho hlas ztratil stařeckou rozechvělost a zněl jako zdravě sytý baryton. A tak ho otec poslal do Connecticutu, aby tam absolvoval přijímací zkoušky na Yale. Benjamin je hladce složil a nastoupil do prvního ročníku.

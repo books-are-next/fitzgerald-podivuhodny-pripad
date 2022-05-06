@@ -1,5 +1,6 @@
 ---
 title: I
+contentType: prose
 ---
 
 V roce 1860 se ještě slušelo přivést dítě na svět doma. V současné době, podle názory nejvyšších bohů medicíny, má prý novorozenec ze sebe vydat první výkřik v antiseptickém ovzduší nemocničního zařízení, pokud možno co nejmódnějšího. Takže když se někdy v létě onoho roku mladý pár manželů Buttonových rozhodl, že se jejich první dítě narodí ve špitále, předstihl dobu o půl století. Nikdo už ovšem nezjistí, nakolik toto vymknutí z časové posloupnosti nějak zásadně poznamenalo onen prazvláštní příběh, který se vám nyní chystám vyprávět.

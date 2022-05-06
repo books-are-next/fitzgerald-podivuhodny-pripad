@@ -1,5 +1,6 @@
 ---
 title: III
+contentType: prose
 ---
 
 I když pak novému přírůstku do rodiny dali ostříhat vlasy nakrátko a potom obarvit načerno, hladce ho oholili, až se mu tváře přímo leskly, a potom ho oblékli do klukovských šatiček, které mu na zakázku ušil užaslý krejčí, nemohl pan Button ignorovat nespornou skutečnost – totiž že jeho syn byl jako prvorozené dítě jen těžko uvěřitelný. Přes výrazné stařecké shrbení měřil Benjamin – tohle jméno mu totiž nakonec přidělili, místo mnohem přiměřenějšího, avšak diskriminujícího ‚Metuzalém‘ – metr pětasedmdesát, a to se žádným oblečením nedalo zamaskovat; a ani přistřižené a obarvené obočí nemohlo zakrýt, že oči pod ním jsou uslzené a pohaslé. A tak chůvě, kterou najali, aby syna opatrovala, stačil po příchodu do domu jediný pohled, aby vzápětí silně pohoršena beze slova odešla.

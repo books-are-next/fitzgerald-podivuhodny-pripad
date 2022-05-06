@@ -1,5 +1,6 @@
 ---
 title: X
+contentType: prose
 ---
 
 Když tento rozhovor skončil, vystoupal nešťastný Benjamin nahoru do pokoje a zahleděl se tam do zrcadla. Už tři měsíce se neholil, ale na tvářích teď objevil pouze světlounké chmýří, které nestálo za pozornost. Když se vrátil z Harvardu, přišel za ním Roscoe s návrhem, že by měl začít nosit brýle a lepit si na líce falešné kotletky. Chvíli se zdálo, že se u něj bude v jiné podobě opakovat ona fraška s maskováním, kterou zažil kdysi v útlém věku. Ale kotletky ho svědily a styděl se za ně. Plakal kvůli tomu a Roscoe nakonec zdráhavě přestal naléhat.
