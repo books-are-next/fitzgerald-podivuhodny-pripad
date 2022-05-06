@@ -1,16 +1,17 @@
 {
   "author": "Francis Scott Fitzgerald",
+  "contenttype": "prose",
   "edition": "beletrie",
-  "identifier": "fitzgerald-podivuhodny-pripad-benjamina-buttona-52ac75b",
+  "identifier": "fitzgerald-podivuhodny-pripad-benjamina-buttona-7284570",
   "languagecode": "cs",
   "modified": "2021-08-11T09:40:46.597Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Podivuhodný případ Benjamina Buttona",
-  "revision": "52ac75b",
+  "revision": "7284570",
   "generatedAt": {
-    "date": "Fri May 06 2022 11:32:00 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1651836720759
+    "date": "Fri May 06 2022 11:36:42 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1651837002507
   },
   "documents": [
     {
@@ -22,26 +23,6 @@
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "podivuhodny_pripad_benjamina_buttona_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Podivuhodný případ Benjamina Buttona",
-      "file": "podivuhodny_pripad_benjamina_buttona_003.html",
-      "words": 10,
-      "chars": 84,
-      "ideas": 3,
-      "role": "chapter",
-      "order": 1,
-      "prev": "podivuhodny_pripad_benjamina_buttona_002.html",
       "next": "podivuhodny_pripad_benjamina_buttona_005.html",
       "toc": [
         {
@@ -60,8 +41,8 @@
       "chars": 9408,
       "ideas": 66,
       "role": "chapter",
-      "order": 2,
-      "prev": "podivuhodny_pripad_benjamina_buttona_003.html",
+      "order": 1,
+      "prev": "podivuhodny_pripad_benjamina_buttona_002.html",
       "next": "podivuhodny_pripad_benjamina_buttona_006.html",
       "toc": [
         {
@@ -80,7 +61,7 @@
       "chars": 3601,
       "ideas": 31,
       "role": "chapter",
-      "order": 3,
+      "order": 2,
       "prev": "podivuhodny_pripad_benjamina_buttona_005.html",
       "next": "podivuhodny_pripad_benjamina_buttona_007.html",
       "toc": [
@@ -100,7 +81,7 @@
       "chars": 7125,
       "ideas": 19,
       "role": "chapter",
-      "order": 4,
+      "order": 3,
       "prev": "podivuhodny_pripad_benjamina_buttona_006.html",
       "next": "podivuhodny_pripad_benjamina_buttona_008.html",
       "toc": [
@@ -120,7 +101,7 @@
       "chars": 3791,
       "ideas": 30,
       "role": "chapter",
-      "order": 5,
+      "order": 4,
       "prev": "podivuhodny_pripad_benjamina_buttona_007.html",
       "next": "podivuhodny_pripad_benjamina_buttona_009.html",
       "toc": [
@@ -140,7 +121,7 @@
       "chars": 6113,
       "ideas": 27,
       "role": "chapter",
-      "order": 6,
+      "order": 5,
       "prev": "podivuhodny_pripad_benjamina_buttona_008.html",
       "next": "podivuhodny_pripad_benjamina_buttona_010.html",
       "toc": [
@@ -160,7 +141,7 @@
       "chars": 1952,
       "ideas": 5,
       "role": "chapter",
-      "order": 7,
+      "order": 6,
       "prev": "podivuhodny_pripad_benjamina_buttona_009.html",
       "next": "podivuhodny_pripad_benjamina_buttona_011.html",
       "toc": [
@@ -180,7 +161,7 @@
       "chars": 3575,
       "ideas": 10,
       "role": "chapter",
-      "order": 8,
+      "order": 7,
       "prev": "podivuhodny_pripad_benjamina_buttona_010.html",
       "next": "podivuhodny_pripad_benjamina_buttona_012.html",
       "toc": [
@@ -200,7 +181,7 @@
       "chars": 4270,
       "ideas": 18,
       "role": "chapter",
-      "order": 9,
+      "order": 8,
       "prev": "podivuhodny_pripad_benjamina_buttona_011.html",
       "next": "podivuhodny_pripad_benjamina_buttona_013.html",
       "toc": [
@@ -220,7 +201,7 @@
       "chars": 4068,
       "ideas": 15,
       "role": "chapter",
-      "order": 10,
+      "order": 9,
       "prev": "podivuhodny_pripad_benjamina_buttona_012.html",
       "next": "podivuhodny_pripad_benjamina_buttona_014.html",
       "toc": [
@@ -240,7 +221,7 @@
       "chars": 4840,
       "ideas": 21,
       "role": "chapter",
-      "order": 11,
+      "order": 10,
       "prev": "podivuhodny_pripad_benjamina_buttona_013.html",
       "next": "podivuhodny_pripad_benjamina_buttona_015.html",
       "toc": [
@@ -260,7 +241,7 @@
       "chars": 4867,
       "ideas": 12,
       "role": "chapter",
-      "order": 12,
+      "order": 11,
       "prev": "podivuhodny_pripad_benjamina_buttona_014.html",
       "next": "colophon.html",
       "toc": [
@@ -276,9 +257,9 @@
     {
       "title": "Tiráž • Podivuhodný případ Benjamina Buttona",
       "file": "colophon.html",
-      "words": 152,
-      "chars": 1056,
-      "ideas": 22,
+      "words": 162,
+      "chars": 1140,
+      "ideas": 25,
       "role": "colophon",
       "order": null,
       "prev": "podivuhodny_pripad_benjamina_buttona_015.html",
@@ -301,9 +282,9 @@
       "ideas": 283
     },
     "chapters": {
-      "words": 8670,
-      "chars": 53694,
-      "ideas": 257
+      "words": 8660,
+      "chars": 53610,
+      "ideas": 254
     }
   }
 }

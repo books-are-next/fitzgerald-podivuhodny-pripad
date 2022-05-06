@@ -1,12 +1,13 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Podivuhodný případ Benjamina Buttona",
       "identifier": "a75858a2-232d-4288-b3b9-a68dbd969a84",
       "author": "Francis Scott Fitzgerald",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-08-11T09:40:46.597Z",
-      "languageCode": "cs",
       "publisherShort": "mkp",
       "edition": "beletrie"
     },
@@ -52,7 +53,7 @@
         "filename": "podivuhodny_pripad_benjamina_buttona_003.md",
         "xhtml": "podivuhodny_ pripad_benjamina_buttona_003.html",
         "id": 2,
-        "role": "chapter",
+        "role": "colophon",
         "inToc": true,
         "title": "",
         "listType": "plain",
@@ -358,6 +359,6 @@
       "user": "books-are-next",
       "repo": "fitzgerald-podivuhodny-pripad"
     },
-    "generatedAt": 1651836671943
+    "generatedAt": 1651836951945
   }
 }

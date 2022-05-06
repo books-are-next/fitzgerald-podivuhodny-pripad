@@ -4,6 +4,15 @@ title: Tiráž
 
 ***
 
+Podivuhodný případ Benjamina Buttona
+
+Francis Scott Fitzgerald
+
+Přeložil Miroslav Jindra
+
+
+***
+
 Znění tohoto textu vychází z díla [Podivuhodný případ Benjamina Buttona](https://search.mlp.cz/cz/titul/podivuhodny-pripad-benjamina-buttona/2775321/) tak, jak bylo vydáno v Praze nakladatelstvím Argo v roce 2009. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
   
