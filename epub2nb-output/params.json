@@ -44,7 +44,7 @@
         "filename": "podivuhodny_pripad_benjamina_buttona_002.md",
         "xhtml": "podivuhodny_ pripad_benjamina_buttona_002.html",
         "id": 1,
-        "role": "chapter",
+        "role": "promo",
         "inToc": true,
         "listType": "plain",
         "children": []
@@ -359,6 +359,6 @@
       "user": "books-are-next",
       "repo": "fitzgerald-podivuhodny-pripad"
     },
-    "generatedAt": 1651836951945
+    "generatedAt": 1652351280399
   }
 }

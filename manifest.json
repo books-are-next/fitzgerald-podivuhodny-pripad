@@ -1,22 +1,38 @@
 {
-  "author": "Francis Scott Fitzgerald",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "fitzgerald-podivuhodny-pripad-benjamina-buttona-7284570",
-  "languagecode": "cs",
-  "modified": "2021-08-11T09:40:46.597Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Podivuhodný případ Benjamina Buttona",
-  "revision": "7284570",
+  "author": "Francis Scott Fitzgerald",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "fitzgerald-podivuhodny-pripad-benjamina-buttona-5f66b6e",
+  "revision": "5f66b6e",
+  "readingOrder": [
+    "promo.html",
+    "podivuhodny_pripad_benjamina_buttona_005.html",
+    "podivuhodny_pripad_benjamina_buttona_006.html",
+    "podivuhodny_pripad_benjamina_buttona_007.html",
+    "podivuhodny_pripad_benjamina_buttona_008.html",
+    "podivuhodny_pripad_benjamina_buttona_009.html",
+    "podivuhodny_pripad_benjamina_buttona_010.html",
+    "podivuhodny_pripad_benjamina_buttona_011.html",
+    "podivuhodny_pripad_benjamina_buttona_012.html",
+    "podivuhodny_pripad_benjamina_buttona_013.html",
+    "podivuhodny_pripad_benjamina_buttona_014.html",
+    "podivuhodny_pripad_benjamina_buttona_015.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Fri May 06 2022 11:36:42 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1651837002507
+    "date": "Thu May 12 2022 10:35:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351743884
   },
   "documents": [
     {
-      "title": "Podivuhodný případ Benjamina Buttona",
-      "file": "podivuhodny_pripad_benjamina_buttona_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,25 +40,17 @@
       "order": 0,
       "prev": null,
       "next": "podivuhodny_pripad_benjamina_buttona_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "I • Podivuhodný případ Benjamina Buttona",
+      "title": "I",
       "file": "podivuhodny_pripad_benjamina_buttona_005.html",
       "words": 1540,
       "chars": 9408,
       "ideas": 66,
       "role": "chapter",
       "order": 1,
-      "prev": "podivuhodny_pripad_benjamina_buttona_002.html",
+      "prev": "promo.html",
       "next": "podivuhodny_pripad_benjamina_buttona_006.html",
       "toc": [
         {
@@ -55,7 +63,7 @@
       ]
     },
     {
-      "title": "II • Podivuhodný případ Benjamina Buttona",
+      "title": "II",
       "file": "podivuhodny_pripad_benjamina_buttona_006.html",
       "words": 586,
       "chars": 3601,
@@ -75,7 +83,7 @@
       ]
     },
     {
-      "title": "III • Podivuhodný případ Benjamina Buttona",
+      "title": "III",
       "file": "podivuhodny_pripad_benjamina_buttona_007.html",
       "words": 1143,
       "chars": 7125,
@@ -95,7 +103,7 @@
       ]
     },
     {
-      "title": "IV • Podivuhodný případ Benjamina Buttona",
+      "title": "IV",
       "file": "podivuhodny_pripad_benjamina_buttona_008.html",
       "words": 618,
       "chars": 3791,
@@ -115,7 +123,7 @@
       ]
     },
     {
-      "title": "V • Podivuhodný případ Benjamina Buttona",
+      "title": "V",
       "file": "podivuhodny_pripad_benjamina_buttona_009.html",
       "words": 961,
       "chars": 6113,
@@ -135,7 +143,7 @@
       ]
     },
     {
-      "title": "VI • Podivuhodný případ Benjamina Buttona",
+      "title": "VI",
       "file": "podivuhodny_pripad_benjamina_buttona_010.html",
       "words": 292,
       "chars": 1952,
@@ -155,7 +163,7 @@
       ]
     },
     {
-      "title": "VII • Podivuhodný případ Benjamina Buttona",
+      "title": "VII",
       "file": "podivuhodny_pripad_benjamina_buttona_011.html",
       "words": 558,
       "chars": 3575,
@@ -175,7 +183,7 @@
       ]
     },
     {
-      "title": "VIII • Podivuhodný případ Benjamina Buttona",
+      "title": "VIII",
       "file": "podivuhodny_pripad_benjamina_buttona_012.html",
       "words": 698,
       "chars": 4270,
@@ -195,7 +203,7 @@
       ]
     },
     {
-      "title": "IX • Podivuhodný případ Benjamina Buttona",
+      "title": "IX",
       "file": "podivuhodny_pripad_benjamina_buttona_013.html",
       "words": 657,
       "chars": 4068,
@@ -215,7 +223,7 @@
       ]
     },
     {
-      "title": "X • Podivuhodný případ Benjamina Buttona",
+      "title": "X",
       "file": "podivuhodny_pripad_benjamina_buttona_014.html",
       "words": 780,
       "chars": 4840,
@@ -235,7 +243,7 @@
       ]
     },
     {
-      "title": "XI • Podivuhodný případ Benjamina Buttona",
+      "title": "XI",
       "file": "podivuhodny_pripad_benjamina_buttona_015.html",
       "words": 827,
       "chars": 4867,
@@ -255,11 +263,11 @@
       ]
     },
     {
-      "title": "Tiráž • Podivuhodný případ Benjamina Buttona",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 162,
-      "chars": 1140,
-      "ideas": 25,
+      "words": 128,
+      "chars": 901,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "podivuhodny_pripad_benjamina_buttona_015.html",
@@ -277,9 +285,9 @@
   ],
   "totals": {
     "all": {
-      "words": 8831,
-      "chars": 54821,
-      "ideas": 283
+      "words": 8797,
+      "chars": 54582,
+      "ideas": 273
     },
     "chapters": {
       "words": 8660,
