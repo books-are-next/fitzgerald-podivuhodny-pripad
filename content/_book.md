@@ -14,7 +14,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - podivuhodny_pripad_benjamina_buttona_002.html
+  - promo.html
   - podivuhodny_pripad_benjamina_buttona_005.html
   - podivuhodny_pripad_benjamina_buttona_006.html
   - podivuhodny_pripad_benjamina_buttona_007.html
