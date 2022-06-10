@@ -3,9 +3,13 @@ title: XI
 contentType: prose
 ---
 
+<section>
+
 V roce 1920 se Roscoeovi Buttonovi narodilo první dítě – chlapec. Během oslav však nikdo nepovažoval za „vhodné“ poukázat na to, že ten asi desetiletý ušmudlaný klučík, který si po domě hraje s cínovými vojáčky a s miniaturním cirkusem, je novorozencův vlastní dědeček.
 
-  
+</section>
+
+<section>
 
 Všichni toho hocha, přes jehož svěží, milou tvář občas přelétl náznak smutku, měli rádi, ale pro Roscoea Buttona byla jeho přítomnost zdrojem soužení. Nebyla „smysluplná“, jak by takovou věc označil slovník jeho generace. To, že jeho otec odmítal vypadat na šedesát, pokládal za charakterovou vadu, svým způsobem za podivínskou zvrhlost – „správný chlap“ (to byl Roscoeův oblíbený výraz) se takhle prostě nechová. Představa, že by měl něco takového brát na lehkou váhu a přijmout to prostě jako fakt, ho doháněla k šílenství. Roscoe uznával, že každý má právo na to, aby se snažil zůstat co nejdéle mladý, ale takhle absurdně to přehánět – to opravdu nebylo… smysluplné. A na tom trval.
 
@@ -26,3 +30,5 @@ Minulost – divoká zteč sanjuanského návrší v čele jeho mužů, první r
 Nepamatoval si přesně už ani to, jestli mlíčko, které polykal při posledním krmení, bylo teplé nebo studené, už nevěděl, co se s ním předtím přes den dělo. Uvědomoval si pouze svou postýlku a důvěrně známou přítomnost Naninu. A potom si už nepamatoval vůbec nic. Když dostal hlad, začal plakat – a nic víc. Celé dny a noci jenom dýchal, zvuky, šepoty a šumy, které mu plynuly nad hlavou, téměř neslyšel, nevnímal vůně ani pachy, světlo ani tmu.
 
 A pak už byla jenom tma, protože jeho bílá postýlka i nejasné tváře, které se nad ní skláněly, dokonce i to teplé, sladké aroma mléka – to všechno z jeho vědomí nadobro vyvanulo.
+
+</section>

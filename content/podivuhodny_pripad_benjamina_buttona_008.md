@@ -3,9 +3,13 @@ title: IV
 contentType: prose
 ---
 
+<section>
+
 O životě Benjamina Buttona mezi jeho dvanáctým a jednadvacátým rokem se tu nemíním příliš šířit. Postačí poznamenat, že to byla léta jeho naprosto normálního odspívání. Když mu bylo osmnáct, pohyboval se vzpřímeně a pevným krokem jako padesátiletý muž, měl podstatně víc vlasů, tmavě šedých, a jeho hlas ztratil stařeckou rozechvělost a zněl jako zdravě sytý baryton. A tak ho otec poslal do Connecticutu, aby tam absolvoval přijímací zkoušky na Yale. Benjamin je hladce složil a nastoupil do prvního ročníku.
 
-  
+</section>
+
+<section>
 
 Třetího dne po imatrikulaci obdržel výzvu od pana Harta, tajemníka oné vysoké školy, aby se k němu dostavil k projednání podrobností studijního programu. Benjamin se na sebe podíval do zrcadla a došel k závěru, že si potřebuje znovu dobarvit vlasy nahnědo. Avšak když spěšně otevřel zásuvku psacího stolu, zjistil, že tam žádná lahvička s barvivem není. Vzápětí si vzpomněl – den předtím ho přece vypotřeboval a lahvičku vyhodil.
 
@@ -62,3 +66,5 @@ Benjamin zrychlil krok a po chvíli se dal rovnou do běhu. Však on jim všem j
 Když už pak seděl v bezpečí ve vlaku na Baltimore, vystrčil hlavu z okénka a křikl na ty lotry: „Tohle vás bude jednou mrzet!“
 
 „Ha-ha-ha!“ smáli se mu. „Ha-ha-ha!“ Větší chyby se ovšem Yaleova univerzita ještě nedopustila…
+
+</section>

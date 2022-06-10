@@ -3,9 +3,13 @@ title: II
 contentType: prose
 ---
 
+<section>
+
 „Dobré jitro,“ pozdravil pan Button nervózně prodavače v obchodě firmy Chesapeakská konfekce. „Rád bych tu synkovi koupil něco na sebe.“
 
-  
+</section>
+
+<section>
 
 „Jistě, pane. Jak je starý, synáček?“
 
@@ -64,3 +68,5 @@ Pan Button sáhl po velkých nemocničních nůžkách, které se tam povalovaly
 Syn jeho ruku důvěřivě přijal. „Jak mi budeš říkat, tatínku?“ zeptal se rozechvěle, když vycházeli ze dveří. „Jenom ‚chlapče‘ – prozatím? Než vymyslíš něco lepšího?“
 
 Pan Button něco nesrozumitelného zamručel. „Ještě nevím,“ odpověděl po chvíli chraptivě. „Nejspíš by ses měl jmenovat Metuzalém.“
+
+</section>

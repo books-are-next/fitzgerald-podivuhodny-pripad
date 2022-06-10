@@ -3,9 +3,13 @@ title: VIII
 contentType: prose
 ---
 
+<section>
+
 Hildegarda mu na uvítanou mávala z verandy velkou hedvábnou vlajkou, ale už když se s ní líbal, se smutkem v srdci si uvědomoval, že si na ní poslední tři roky vybraly neblahou daň. Stala se z ní čtyřicátnice s drobným, ale nepřehlédnutelným proužkem šedin ve vlasech. Velmi ho to zkrušilo.
 
-  
+</section>
+
+<section>
 
 Nahoře v pokoji zahlédl svůj obraz ve starém známém zrcadle. Přistoupil k němu blíž a začal si úzkostlivě prohlížet tvář. Načež ji zkusil porovnat s fotografií v uniformě, pořízenou těsně před odchodem do války.
 
@@ -38,3 +42,5 @@ Benjamin si rostoucí domácí rozpory nahrazoval celou řadou nových zájmů. 
 Společenské aktivity se mu samozřejmě značnou měrou křížily s obchodním podnikáním, ale v té době už začal mít dojem, že ve velkoobchodu železářským zbožím se za těch pětadvacet let napachtil už dost, a přemýšlel o tom, že by asi měl firmu v dohledné době předat svému synu Roscoeovi, který nedávno odpromoval na Harvardu.
 
 Po pravdě, lidé si je začínali plést. Benjamina to samozřejmě těšilo; na hlodavé obavy z doby, kdy se vrátil ze španělsko-americké války, brzy zapomněl a z toho, jak stále mlaději vypadal, měl naivní radost. Jeho pohodu narušoval pouze jediný stín – strašně nerad se teď ukazoval na veřejnosti se svou ženou. Hildegardě bylo už skoro padesát a při pohledu na ni si připadal jako ve zlém snu.
+
+</section>
