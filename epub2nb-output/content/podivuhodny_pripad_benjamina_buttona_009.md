@@ -3,9 +3,13 @@ title: V
 contentType: prose
 ---
 
+<section>
+
 V roce 1880 bylo Benjaminu Buttonovi dvacet let a narozeniny oslavil tím, že začal pracovat v otcově firmě Roger Button a spol., velkoobchod železářským zbožím. V témže roce začal rovněž „vést společenský život“ – což konkrétně znamenalo, že ho otec začal brát na módní taneční večírky. Rogerovi Buttonovi bylo teď už padesát a se synem si začali velmi dobře rozumět – po pravdě řečeno, od té doby, co si Benjamin přestal barvit vlasy (pořád je měl ještě trochu šedivé), vypadali stejně staří a leckdo je mohl pokládat za bratry.
 
-  
+</section>
+
+<section>
 
 Jednoho srpnového večera spolu nasedli v dokonalých večerních oblecích do kočáru a odjeli kousek za Baltimore k venkovskému sídlu rodiny Shevlinů. Na kraj se snesla přenádherná noc. Měsíc v úplňku barvil cestu platinovým leskem a rozkvetlé květiny vrcholného léta vydechovaly do nehybného ovzduší vůně, které připomínaly tichý, tlumený smích.
 
@@ -56,3 +60,5 @@ Když se pak téměř až za rozbřesku, kdy už začínaly bzučet první včel
 „Kladívka? Ale o nástrojích jsem přece zrovna teď mluvil,“ podivil se Roger Button.
 
 Benjamin na něj upřel zamlžené, nechápavé oči právě ve chvíli, kdy se náhle prosvětlila východní část oblohy. V probouzejícím se stromoví pronikavě zakrákorala žluva.
+
+</section>

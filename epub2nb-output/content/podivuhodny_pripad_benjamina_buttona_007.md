@@ -3,9 +3,13 @@ title: III
 contentType: prose
 ---
 
+<section>
+
 I když pak novému přírůstku do rodiny dali ostříhat vlasy nakrátko a potom obarvit načerno, hladce ho oholili, až se mu tváře přímo leskly, a potom ho oblékli do klukovských šatiček, které mu na zakázku ušil užaslý krejčí, nemohl pan Button ignorovat nespornou skutečnost – totiž že jeho syn byl jako prvorozené dítě jen těžko uvěřitelný. Přes výrazné stařecké shrbení měřil Benjamin – tohle jméno mu totiž nakonec přidělili, místo mnohem přiměřenějšího, avšak diskriminujícího ‚Metuzalém‘ – metr pětasedmdesát, a to se žádným oblečením nedalo zamaskovat; a ani přistřižené a obarvené obočí nemohlo zakrýt, že oči pod ním jsou uslzené a pohaslé. A tak chůvě, kterou najali, aby syna opatrovala, stačil po příchodu do domu jediný pohled, aby vzápětí silně pohoršena beze slova odešla.
 
-  
+</section>
+
+<section>
 
 Pan Button se ovšem ve svých představách nedal ničím zviklat. Benjamin byl dítě a dítětem měl zůstat. Zprvu prohlásil, že když Benjamin nemá rád teplé mlíčko, nedostane k jídlu nic jiného; ale nakonec se nechal obměkčit ke kompromisu a povolil synáčkovi chléb s máslem, a dokonce i ovesnou kaši. Jednoho dne přinesl domů chrastítko a předal ho Benjaminovi s příkazem, aby si s ním „občas hrál“; staroch ho s otráveným výrazem ve tváři převzal a v průběhu dne s ním několikrát poslušně zachrastil.
 
@@ -40,3 +44,5 @@ Otec se na něj zadíval a naoko se zamyslel. „Tím si nejsem tak docela jist,
 Nebyla to pravda – patřilo to k představě, kterou v sobě Roger Button soustavně pěstoval, totiž že jeho syn je vlastně docela normální.
 
 Nakonec dospěli ke kompromisu. Benjamin si i nadále bude barvit vlasy. Bude se usilovněji snažit hrát si s chlapci svého věku. Na ulici nebude nosit brýle a brát si hůl. A za to otec vyhoví jeho prosbě a koupí mu oblek s dlouhými kalhotami…
+
+</section>

@@ -3,9 +3,13 @@ title: I
 contentType: prose
 ---
 
+<section>
+
 V roce 1860 se ještě slušelo přivést dítě na svět doma. V současné době, podle názory nejvyšších bohů medicíny, má prý novorozenec ze sebe vydat první výkřik v antiseptickém ovzduší nemocničního zařízení, pokud možno co nejmódnějšího. Takže když se někdy v létě onoho roku mladý pár manželů Buttonových rozhodl, že se jejich první dítě narodí ve špitále, předstihl dobu o půl století. Nikdo už ovšem nezjistí, nakolik toto vymknutí z časové posloupnosti nějak zásadně poznamenalo onen prazvláštní příběh, který se vám nyní chystám vyprávět.
 
-  
+</section>
+
+<section>
 
 Sdělím vám, co všechno se přihodilo, a posuďte sami.
 
@@ -134,3 +138,5 @@ Se zlomyslným zasupěním zvedl stařík z postýlky malou bílou zavinovačku.
 Starcův hlas vyprovázel pana Buttona až na chodbu. „A nějakou hůl, tati. Asi budu potřebovat hůl.“
 
 Pan Button za sebou při odchodu vztekle třískl dveřmi.
+
+</section>
