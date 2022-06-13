@@ -13,6 +13,7 @@ meta:
   modified: '2021-08-11T09:40:46.597Z'
   publisherShort: mkp
   edition: beletrie
+  isbn: 978-80-274-2476-4
 readingOrder:
   - promo.html
   - podivuhodny_pripad_benjamina_buttona_005.html
@@ -28,28 +29,31 @@ readingOrder:
   - podivuhodny_pripad_benjamina_buttona_015.html
   - colophon.html
 tocBase:
-  - link: podivuhodny_pripad_benjamina_buttona_005.html
-    title: I
-  - link: podivuhodny_pripad_benjamina_buttona_006.html
-    title: II
-  - link: podivuhodny_pripad_benjamina_buttona_007.html
-    title: III
-  - link: podivuhodny_pripad_benjamina_buttona_008.html
-    title: IV
-  - link: podivuhodny_pripad_benjamina_buttona_009.html
-    title: V
-  - link: podivuhodny_pripad_benjamina_buttona_010.html
-    title: VI
-  - link: podivuhodny_pripad_benjamina_buttona_011.html
-    title: VII
-  - link: podivuhodny_pripad_benjamina_buttona_012.html
-    title: VIII
-  - link: podivuhodny_pripad_benjamina_buttona_013.html
-    title: IX
-  - link: podivuhodny_pripad_benjamina_buttona_014.html
-    title: X
-  - link: podivuhodny_pripad_benjamina_buttona_015.html
-    title: XI
+  - id: section-1
+    children:
+      - link: podivuhodny_pripad_benjamina_buttona_005.html
+        title: I
+      - link: podivuhodny_pripad_benjamina_buttona_006.html
+        title: II
+      - link: podivuhodny_pripad_benjamina_buttona_007.html
+        title: III
+      - link: podivuhodny_pripad_benjamina_buttona_008.html
+        title: IV
+      - link: podivuhodny_pripad_benjamina_buttona_009.html
+        title: V
+      - link: podivuhodny_pripad_benjamina_buttona_010.html
+        title: VI
+      - link: podivuhodny_pripad_benjamina_buttona_011.html
+        title: VII
+      - link: podivuhodny_pripad_benjamina_buttona_012.html
+        title: VIII
+      - link: podivuhodny_pripad_benjamina_buttona_013.html
+        title: IX
+      - link: podivuhodny_pripad_benjamina_buttona_014.html
+        title: X
+      - link: podivuhodny_pripad_benjamina_buttona_015.html
+        title: XI
+    isSection: true
 static:
   - style
   - scripts

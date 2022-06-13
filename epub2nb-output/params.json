@@ -9,7 +9,8 @@
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-08-11T09:40:46.597Z",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "beletrie",
+      "isbn": "978-80-274-2476-4"
     },
     "elements": {
       "title": "mlpuroven2kapitola\n\n",
@@ -32,160 +33,166 @@
     },
     "structure": [
       {
-        "filename": "podivuhodny_pripad_benjamina_buttona_001.md",
-        "xhtml": "podivuhodny_ pripad_benjamina_buttona_001.html",
-        "id": 0,
-        "role": "cover",
-        "inToc": true,
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "podivuhodny_pripad_benjamina_buttona_002.md",
-        "xhtml": "podivuhodny_ pripad_benjamina_buttona_002.html",
-        "id": 1,
-        "role": "promo",
-        "inToc": true,
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "podivuhodny_pripad_benjamina_buttona_003.md",
-        "xhtml": "podivuhodny_ pripad_benjamina_buttona_003.html",
-        "id": 2,
-        "role": "colophon",
-        "inToc": true,
-        "title": "",
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "podivuhodny_pripad_benjamina_buttona_004.md",
-        "xhtml": "podivuhodny_ pripad_benjamina_buttona_004.html",
-        "id": 3,
-        "role": "colophon",
-        "inToc": true,
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "podivuhodny_pripad_benjamina_buttona_005.md",
-        "xhtml": "podivuhodny_ pripad_benjamina_buttona_005.html",
-        "title": "I",
-        "id": 4,
-        "role": "chapter",
-        "inToc": true,
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "podivuhodny_pripad_benjamina_buttona_006.md",
-        "xhtml": "podivuhodny_ pripad_benjamina_buttona_006.html",
-        "title": "II",
-        "id": 5,
-        "role": "chapter",
-        "inToc": true,
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "podivuhodny_pripad_benjamina_buttona_007.md",
-        "xhtml": "podivuhodny_ pripad_benjamina_buttona_007.html",
-        "title": "III",
-        "id": 6,
-        "role": "chapter",
-        "inToc": true,
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "podivuhodny_pripad_benjamina_buttona_008.md",
-        "xhtml": "podivuhodny_ pripad_benjamina_buttona_008.html",
-        "title": "IV",
-        "id": 7,
-        "role": "chapter",
-        "inToc": true,
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "podivuhodny_pripad_benjamina_buttona_009.md",
-        "xhtml": "podivuhodny_ pripad_benjamina_buttona_009.html",
-        "title": "V",
-        "id": 8,
-        "role": "chapter",
-        "inToc": true,
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "podivuhodny_pripad_benjamina_buttona_010.md",
-        "xhtml": "podivuhodny_ pripad_benjamina_buttona_010.html",
-        "title": "VI",
-        "id": 9,
-        "role": "chapter",
-        "inToc": true,
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "podivuhodny_pripad_benjamina_buttona_011.md",
-        "xhtml": "podivuhodny_ pripad_benjamina_buttona_011.html",
-        "title": "VII",
-        "id": 10,
-        "role": "chapter",
-        "inToc": true,
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "podivuhodny_pripad_benjamina_buttona_012.md",
-        "xhtml": "podivuhodny_ pripad_benjamina_buttona_012.html",
-        "title": "VIII",
-        "id": 11,
-        "role": "chapter",
-        "inToc": true,
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "podivuhodny_pripad_benjamina_buttona_013.md",
-        "xhtml": "podivuhodny_ pripad_benjamina_buttona_013.html",
-        "title": "IX",
-        "id": 12,
-        "role": "chapter",
-        "inToc": true,
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "podivuhodny_pripad_benjamina_buttona_014.md",
-        "xhtml": "podivuhodny_ pripad_benjamina_buttona_014.html",
-        "title": "X",
-        "id": 13,
-        "role": "chapter",
-        "inToc": true,
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "podivuhodny_pripad_benjamina_buttona_015.md",
-        "xhtml": "podivuhodny_ pripad_benjamina_buttona_015.html",
-        "title": "XI",
-        "id": 14,
-        "role": "chapter",
-        "inToc": true,
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "podivuhodny_pripad_benjamina_buttona_016.md",
-        "xhtml": "podivuhodny_ pripad_benjamina_buttona_016.html",
-        "id": 15,
-        "role": "colophon",
-        "inToc": true,
-        "listType": "plain",
-        "children": []
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "podivuhodny_pripad_benjamina_buttona_001.md",
+            "xhtml": "podivuhodny_ pripad_benjamina_buttona_001.html",
+            "id": 0,
+            "role": "cover",
+            "inToc": true,
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "podivuhodny_pripad_benjamina_buttona_002.md",
+            "xhtml": "podivuhodny_ pripad_benjamina_buttona_002.html",
+            "id": 1,
+            "role": "promo",
+            "inToc": true,
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "podivuhodny_pripad_benjamina_buttona_003.md",
+            "xhtml": "podivuhodny_ pripad_benjamina_buttona_003.html",
+            "id": 2,
+            "role": "colophon",
+            "inToc": true,
+            "title": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "podivuhodny_pripad_benjamina_buttona_004.md",
+            "xhtml": "podivuhodny_ pripad_benjamina_buttona_004.html",
+            "id": 3,
+            "role": "colophon",
+            "inToc": true,
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "podivuhodny_pripad_benjamina_buttona_005.md",
+            "xhtml": "podivuhodny_ pripad_benjamina_buttona_005.html",
+            "title": "I",
+            "id": 4,
+            "role": "chapter",
+            "inToc": true,
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "podivuhodny_pripad_benjamina_buttona_006.md",
+            "xhtml": "podivuhodny_ pripad_benjamina_buttona_006.html",
+            "title": "II",
+            "id": 5,
+            "role": "chapter",
+            "inToc": true,
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "podivuhodny_pripad_benjamina_buttona_007.md",
+            "xhtml": "podivuhodny_ pripad_benjamina_buttona_007.html",
+            "title": "III",
+            "id": 6,
+            "role": "chapter",
+            "inToc": true,
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "podivuhodny_pripad_benjamina_buttona_008.md",
+            "xhtml": "podivuhodny_ pripad_benjamina_buttona_008.html",
+            "title": "IV",
+            "id": 7,
+            "role": "chapter",
+            "inToc": true,
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "podivuhodny_pripad_benjamina_buttona_009.md",
+            "xhtml": "podivuhodny_ pripad_benjamina_buttona_009.html",
+            "title": "V",
+            "id": 8,
+            "role": "chapter",
+            "inToc": true,
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "podivuhodny_pripad_benjamina_buttona_010.md",
+            "xhtml": "podivuhodny_ pripad_benjamina_buttona_010.html",
+            "title": "VI",
+            "id": 9,
+            "role": "chapter",
+            "inToc": true,
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "podivuhodny_pripad_benjamina_buttona_011.md",
+            "xhtml": "podivuhodny_ pripad_benjamina_buttona_011.html",
+            "title": "VII",
+            "id": 10,
+            "role": "chapter",
+            "inToc": true,
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "podivuhodny_pripad_benjamina_buttona_012.md",
+            "xhtml": "podivuhodny_ pripad_benjamina_buttona_012.html",
+            "title": "VIII",
+            "id": 11,
+            "role": "chapter",
+            "inToc": true,
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "podivuhodny_pripad_benjamina_buttona_013.md",
+            "xhtml": "podivuhodny_ pripad_benjamina_buttona_013.html",
+            "title": "IX",
+            "id": 12,
+            "role": "chapter",
+            "inToc": true,
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "podivuhodny_pripad_benjamina_buttona_014.md",
+            "xhtml": "podivuhodny_ pripad_benjamina_buttona_014.html",
+            "title": "X",
+            "id": 13,
+            "role": "chapter",
+            "inToc": true,
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "podivuhodny_pripad_benjamina_buttona_015.md",
+            "xhtml": "podivuhodny_ pripad_benjamina_buttona_015.html",
+            "title": "XI",
+            "id": 14,
+            "role": "chapter",
+            "inToc": true,
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "podivuhodny_pripad_benjamina_buttona_016.md",
+            "xhtml": "podivuhodny_ pripad_benjamina_buttona_016.html",
+            "id": 15,
+            "role": "colophon",
+            "inToc": true,
+            "listType": "plain",
+            "children": []
+          }
+        ]
       }
     ]
   },
@@ -359,6 +366,6 @@
       "user": "books-are-next",
       "repo": "fitzgerald-podivuhodny-pripad"
     },
-    "generatedAt": 1654948285057
+    "generatedAt": 1655155756917
   }
 }
