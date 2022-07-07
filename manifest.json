@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fitzgerald-podivuhodny-pripad-benjamina-buttona-5f9e944",
-  "revision": "5f9e944",
+  "identifier": "fitzgerald-podivuhodny-pripad-benjamina-buttona-a6936b0",
+  "revision": "a6936b0",
   "readingOrder": [
     "promo.html",
     "podivuhodny_pripad_benjamina_buttona_005.html",
@@ -23,11 +23,11 @@
     "podivuhodny_pripad_benjamina_buttona_013.html",
     "podivuhodny_pripad_benjamina_buttona_014.html",
     "podivuhodny_pripad_benjamina_buttona_015.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:02:08 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978528305
+    "date": "Thu Jul 07 2022 08:23:50 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182230948
   },
   "documents": [
     {
@@ -251,7 +251,7 @@
       "role": "chapter",
       "order": 11,
       "prev": "podivuhodny_pripad_benjamina_buttona_014.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -264,11 +264,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 146,
-      "chars": 1021,
+      "chars": 1020,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "podivuhodny_pripad_benjamina_buttona_015.html",
       "next": null,
@@ -286,7 +286,7 @@
   "totals": {
     "all": {
       "words": 8815,
-      "chars": 54702,
+      "chars": 54701,
       "ideas": 274
     },
     "chapters": {

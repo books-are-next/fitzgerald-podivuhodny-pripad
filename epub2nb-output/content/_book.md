@@ -27,7 +27,7 @@ readingOrder:
   - podivuhodny_pripad_benjamina_buttona_013.html
   - podivuhodny_pripad_benjamina_buttona_014.html
   - podivuhodny_pripad_benjamina_buttona_015.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
