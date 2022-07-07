@@ -54,7 +54,7 @@
         "filename": "podivuhodny_pripad_benjamina_buttona_003.md",
         "xhtml": "podivuhodny_ pripad_benjamina_buttona_003.html",
         "id": 2,
-        "role": "colophon",
+        "role": "about",
         "inToc": true,
         "title": "",
         "listType": "plain",
@@ -64,7 +64,7 @@
         "filename": "podivuhodny_pripad_benjamina_buttona_004.md",
         "xhtml": "podivuhodny_ pripad_benjamina_buttona_004.html",
         "id": 3,
-        "role": "colophon",
+        "role": "about",
         "inToc": true,
         "listType": "plain",
         "children": []
@@ -183,7 +183,7 @@
         "filename": "podivuhodny_pripad_benjamina_buttona_016.md",
         "xhtml": "podivuhodny_ pripad_benjamina_buttona_016.html",
         "id": 15,
-        "role": "colophon",
+        "role": "about",
         "inToc": true,
         "listType": "plain",
         "children": []
