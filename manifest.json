@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fitzgerald-podivuhodny-pripad-benjamina-buttona-5e5f22e",
-  "revision": "5e5f22e",
+  "identifier": "fitzgerald-podivuhodny-pripad-benjamina-buttona-396f7b1",
+  "revision": "396f7b1",
   "readingOrder": [
     "promo.html",
     "podivuhodny_pripad_benjamina_buttona_005.html",
@@ -26,8 +26,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 15:53:35 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664639615453
+    "date": "Tue Oct 04 2022 16:40:54 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664901654475
   },
   "documents": [
     {
@@ -265,9 +265,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 146,
+      "words": 145,
       "chars": 1021,
-      "ideas": 16,
+      "ideas": 15,
       "role": "about",
       "order": null,
       "prev": "podivuhodny_pripad_benjamina_buttona_015.html",
@@ -285,9 +285,9 @@
   ],
   "totals": {
     "all": {
-      "words": 8815,
+      "words": 8814,
       "chars": 54702,
-      "ideas": 274
+      "ideas": 273
     },
     "chapters": {
       "words": 8660,
