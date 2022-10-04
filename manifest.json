@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fitzgerald-podivuhodny-pripad-benjamina-buttona-27966c9",
-  "revision": "27966c9",
+  "identifier": "fitzgerald-podivuhodny-pripad-benjamina-buttona-4bb2f56",
+  "revision": "4bb2f56",
   "readingOrder": [
     "promo.html",
     "podivuhodny_pripad_benjamina_buttona_005.html",
@@ -26,8 +26,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 18:34:38 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664908478448
+    "date": "Tue Oct 04 2022 22:51:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664923877850
   },
   "documents": [
     {
